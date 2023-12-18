@@ -1,20 +1,16 @@
-### Hey, I am Jonathan Jara
-#### 🎓 3rd-year Computer Science student at CalPoly SLO
+### Hey, I'm Jonathan 🥱
 
-Welcome to my GitHub profile!
-🚀 **Projects:**
-- Most of my personal projects are hosted right here on GitHub. Explore my repositories to see my work.
+<!--
+**GoldfishJonny/GoldfishJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🛠️**Tools I am proficient in**
-- Proficient in languages like Python, Java, C, Arm Assembly, and Javascript.
+Here are some ideas to get you started:
 
-🌐 **Connect with Me:**
-Check out my [portfolio website](https://www.goldfishjonny.com)
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/jojara).
-
-🎯 **Future Goals:**
-- Create open-source projects.
-- Contribute to initiatives that make a positive impact on society.
-
-Feel free to reach out if you have questions, want to collaborate, or just chat tech! 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
