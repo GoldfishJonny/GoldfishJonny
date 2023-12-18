@@ -10,6 +10,7 @@ Welcome to my GitHub profile!
 
 🌐 **Connect with Me:**
 Check out my [portfolio website](https://www.goldfishjonny.com)
+
 Let's connect on [LinkedIn](https://www.linkedin.com/in/jojara).
 
 🎯 **Future Goals:**
