@@ -1,4 +1,4 @@
-### Hey, I am Jon 🥱
+###  I am Jon 💀
 
 <!--
 **GoldfishJonny/GoldfishJonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
